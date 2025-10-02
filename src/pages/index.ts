@@ -1,0 +1,5 @@
+export { default as Home } from './Home'
+export { default as BookTicket } from './BookTicket'
+export { default as ViewTicket } from './ViewTicket'
+export { default as BookingHistory } from './BookingHistory'
+export { default as Login } from './Login'
